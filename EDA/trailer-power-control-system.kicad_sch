@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9406dd09-7ae4-432a-9b34-98425b815f21")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 21.59 83.82)
+		(size 19.05 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0ef3d2c1-5f25-43eb-9b99-590f98c9051f")
+		(property "Sheetname" "DIP_SWITCH"
+			(at 21.59 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dip_switch.kicad_sch"
+			(at 21.59 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "trailer-power-control-system"
+				(path "/9406dd09-7ae4-432a-9b34-98425b815f21"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 24.13)
+		(size 19.05 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "235f137b-74ca-4317-80ac-8d1ff62f5cb0")
+		(property "Sheetname" "MOSFETS"
+			(at 21.59 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mosfets.kicad_sch"
+			(at 21.59 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "trailer-power-control-system"
+				(path "/9406dd09-7ae4-432a-9b34-98425b815f21"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 38.1)
+		(size 19.05 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "43dc587b-0e9f-4033-b46c-1a97f3087aee")
+		(property "Sheetname" "Power"
+			(at 21.59 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 21.59 46.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "trailer-power-control-system"
+				(path "/9406dd09-7ae4-432a-9b34-98425b815f21"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 53.34)
+		(size 19.05 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "742229d2-b52d-4f59-893a-7d0f8dcdfc83")
+		(property "Sheetname" "CAN"
+			(at 21.59 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "can.kicad_sch"
+			(at 21.59 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "trailer-power-control-system"
+				(path "/9406dd09-7ae4-432a-9b34-98425b815f21"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 68.58)
+		(size 19.05 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a77fdbb3-2831-42bc-a069-8c09302b568a")
+		(property "Sheetname" "MCU"
+			(at 21.59 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 21.59 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "trailer-power-control-system"
+				(path "/9406dd09-7ae4-432a-9b34-98425b815f21"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
